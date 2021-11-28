@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\formatacaocs\bin\Debug\formatacaocs.exe.config
+C:\Users\Usuario\source\repos\formatacaocs\bin\Debug\formatacaocs.exe
+C:\Users\Usuario\source\repos\formatacaocs\bin\Debug\formatacaocs.pdb
+C:\Users\Usuario\source\repos\formatacaocs\obj\Debug\formatacaocs.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\formatacaocs\obj\Debug\formatacaocs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\formatacaocs\obj\Debug\formatacaocs.exe
+C:\Users\Usuario\source\repos\formatacaocs\obj\Debug\formatacaocs.pdb
